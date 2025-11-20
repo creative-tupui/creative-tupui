@@ -9,7 +9,7 @@
 💡 **Core Expertise:**
 - **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, Several crypto bots and Web3 applications
 - **Full-Stack Engineering:** Scalable web applications, microservices, and cloud-native solutions
-- **AI Development:** Chatbot, AI Agent, AI integration, Model training, Custom AI bots
+- **AI Development:** Chatbot, AI Agent, AI integration, Custom AI bots
 - **Security-First Approach:** Implementing robust security measures for both traditional and blockchain systems
 
 🌐 I specialize in creating innovative solutions that bridge traditional web technologies with the decentralized future. From enterprise-grade applications to revolutionary blockchain protocols, I deliver secure, scalable, and user-centric solutions for clients worldwide.
