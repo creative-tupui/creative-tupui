@@ -59,6 +59,10 @@
     </tr>
     <tr>
         <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
           </td>
@@ -70,10 +74,6 @@
             <br>C#
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
             <br>Go
         </td>
@@ -82,11 +82,11 @@
           <br>Django
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-          <br>Laravel
+          <img src="https://skillicons.dev/icons?i=move" width="45" height="45" alt="move" />
+          <br>Move
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="rails" />
+          <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="haskell" />
           <br>Haskell
         </td>
     </tr>
