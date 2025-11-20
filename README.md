@@ -1,14 +1,15 @@
 # 👋 Thanks for visiting my github ! <br />
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Developer;Blockchain%20%26%20Web3%20Expert;Smart%20Contract%20Architect;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Blockchain%20Engineer;Blockchain%20%26%20Web3%20Expert;Smart%20Contract%20Architect;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-🚀 **Senior Full-Stack & Blockchain Developer** with 7+ years of experience building cutting-edge solutions across web, mobile, and decentralized applications.
+🚀 **Senior Full-Stack & Blockchain Engineer** with 8+ years of experience building cutting-edge solutions across web, dapps and AI applications.
 
 💡 **Core Expertise:**
-- **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, and Web3 applications
+- **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, Several crypto bots and Web3 applications
 - **Full-Stack Engineering:** Scalable web applications, microservices, and cloud-native solutions
+- **AI Development:** Chatbot, AI Agent, AI integration, Model training, Custom AI bots
 - **Security-First Approach:** Implementing robust security measures for both traditional and blockchain systems
 
 🌐 I specialize in creating innovative solutions that bridge traditional web technologies with the decentralized future. From enterprise-grade applications to revolutionary blockchain protocols, I deliver secure, scalable, and user-centric solutions for clients worldwide.
@@ -85,8 +86,8 @@
           <br>Laravel
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
+          <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45" alt="rails" />
+          <br>Haskell
         </td>
     </tr>
 </table>
