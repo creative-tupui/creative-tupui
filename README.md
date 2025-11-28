@@ -1,4 +1,4 @@
-# 👋 Thanks for visiting my github ! <br />
+# 👋 Thanks so muuch for visiting my github ! <br />
 
 <p align="center">
   <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Web3%20Engineer;Blockchain%20%26%20Web3%20Expert;Smart%20Contract%20Architect;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
